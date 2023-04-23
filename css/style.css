@@ -1,0 +1,13 @@
+.paises{
+    margin: 0;
+    list-style-type: decimal;
+}
+.españa{
+    list-style-type:lower-alpha;
+}
+.eeuu{
+    list-style-type:upper-roman;
+}
+.newspaper{
+   padding-left: 1em;
+}
